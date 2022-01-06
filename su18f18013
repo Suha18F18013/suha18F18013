@@ -2,3 +2,6 @@ add
 string su
 int 
 44
+Int a,b,c
+Sum=a+b
+Read sum
