@@ -5,3 +5,4 @@ int
 Int a,b,c
 Sum=a+b
 Read sum
+end
